@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../font/Montserrat-Medium.eot');
+    src: url('../font/Montserrat-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../font/Montserrat-Medium.woff') format('woff'),
+    url('../font/Montserrat-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+	font-family: 'MuseoSans ';
+	src: url('../font/MuseoSansCyrl-500.eot');
+	src: local('MuseoSansCyrl-500'),
+		url('../font/MuseoSansCyrl-500.eot?#iefix') format('embedded-opentype'),
+		url('../font/MuseoSansCyrl-500.woff') format('woff'),
+		url('../font/MuseoSansCyrl-500.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'MuseoSans ';
+	src: url('../font/MuseoSansCyrl-900.eot');
+	src: local('MuseoSansCyrl-900'),
+		url('../font/MuseoSansCyrl-900.eot?#iefix') format('embedded-opentype'),
+		url('../font/MuseoSansCyrl-900.woff') format('woff'),
+		url('../font/MuseoSansCyrl-900.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'MuseoSans ';
+	src: url('../font/MuseoSansCyrl-700.eot');
+	src: local('MuseoSansCyrl-700'),
+		url('../font/MuseoSansCyrl-700.eot?#iefix') format('embedded-opentype'),
+		url('../font/MuseoSansCyrl-700.woff') format('woff'),
+		url('../font/MuseoSansCyrl-700.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'MuseoSans ';
+	src: url('../font/MuseoSansCyrl-300.eot');
+	src: local('MuseoSansCyrl-300'),
+		url('../font/MuseoSansCyrl-300.eot?#iefix') format('embedded-opentype'),
+		url('../font/MuseoSansCyrl-300.woff') format('woff'),
+		url('../font/MuseoSansCyrl-300.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+    font-family: 'SanFrancisco';
+    src:url('../font/SFUIDisplay-Regular.woff2') format('woff2'),
+        url('../font/SFUIDisplay-Regular.woff') format('woff'),
+        url('../font/SFUIDisplay-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SegoeUI ';
+    src: url('../font/SegoeUI-Light.eot');
+    src: url('../font/SegoeUI-Light.eot?#iefix') format('embedded-opentype'),
+    url('../font/SegoeUI-Light.woff') format('woff'),
+    url('../font/SegoeUI-Light.ttf') format('truetype');
+}
